@@ -20,14 +20,14 @@ synthetic event data → Databricks-style pipeline (bronze/silver/gold) → KPI 
 ## Dashboard (Looker Studio)
 
 ### Overview
-![Overview](powerbi/screenshots/overview.png)
+![Overview](dashboard/screenshots/overview.png)
 
 ### Funnel
-![Funnel](powerbi/screenshots/funnel.png)
+![Funnel](dashboard/screenshots/funnel.png)
 
 ### Cohorts
-![Cohorts](powerbi/screenshots/cohorts.png)
+![Cohorts](dashboard/screenshots/cohorts.png)
 
 ### Data Quality
-![Data Quality](powerbi/screenshots/data_quality.png)
+![Data Quality](dashboard/screenshots/data_quality.png)
 
