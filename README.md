@@ -16,3 +16,18 @@ synthetic event data → Databricks-style pipeline (bronze/silver/gold) → KPI 
 - KPI tables (gold layer)
 - Data quality monitoring results
 - Short insights & recommendations
+
+## Dashboard (Looker Studio)
+
+### Overview
+![Overview](powerbi/screenshots/overview.png)
+
+### Funnel
+![Funnel](powerbi/screenshots/funnel.png)
+
+### Cohorts
+![Cohorts](powerbi/screenshots/cohorts.png)
+
+### Data Quality
+![Data Quality](powerbi/screenshots/data_quality.png)
+
